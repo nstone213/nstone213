@@ -19,12 +19,9 @@
 ---
 ### Social Links
 
-<a href="https://www.linkedin.com/in/nicholasbaronstone/" target="_blank">
-  <img align="left" alt="Nicholas | LinkedIn" width="25px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>
-</a>
-<a href="https://www.instagram.com/nicholasstone21/" target="_blank">
-  <img align="left" alt="Nicholas | Instagram" width="25px" src="https://i.pinimg.com/originals/43/85/a5/4385a5479214954fa9fab6f1a778623f.png"/>
-</a>
+[<img align="left" alt="Nicholas | LinkedIn" width="25px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][linkedin]
+[<img align="left" alt="Nicholas | Instagram" width="25px" src="https://i.pinimg.com/originals/43/85/a5/4385a5479214954fa9fab6f1a778623f.png"/>][instagram]
+
 
 [linkedin]: https://www.linkedin.com/in/nicholasbaronstone/
 [instagram]: https://www.instagram.com/nicholasstone21/
