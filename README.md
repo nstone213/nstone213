@@ -19,7 +19,7 @@
 ---
 ### Social Links
 
-[<img align="left" alt="Nicholas | LinkedIn" width="25px" src="[https://assets.stickpng.com/images/580b57fcd9996e24bc43c545.png](https://cdn-icons-png.flaticon.com/512/174/174857.png)"/>][linkedin]
+[<img align="left" alt="Nicholas | LinkedIn" width="25px" src="[[https://assets.stickpng.com/images/580b57fcd9996e24bc43c545.png](https://cdn-icons-png.flaticon.com/512/174/174857.png)](https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png)"/>][linkedin]
 [<img align="left" alt="Nicholas | Instagram" width="25px" src="https://i.pinimg.com/originals/43/85/a5/4385a5479214954fa9fab6f1a778623f.png"/>][instagram]
 
 
