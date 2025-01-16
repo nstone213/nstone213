@@ -16,7 +16,7 @@
   </a>
 </div>
 
----
+--
 ### Social Links
 
 [<img align="left" alt="Nicholas | LinkedIn" width="25px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][linkedin]
