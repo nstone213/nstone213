@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  Undergraduate at <a href="https://www.gatech.edu" style="color: yellow; text-decoration: none;">Georgia Tech</a> pursuing a dual major in Comp Sci & Psychology!
+  Undergraduate at <a href="https://www.gatech.edu" style="color: red; text-decoration: none;">Georgia Tech</a> pursuing a dual major in Comp Sci & Psychology!
 </h3>
 
 <br/>
