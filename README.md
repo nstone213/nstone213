@@ -6,4 +6,6 @@
 
 <h3 align="center">Current undergraduate at Georgia Tech pursuing a dual major in Comp Sci & Psychology!</h3>
 
+<br/>
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=nstone213&theme=dracula&hide_border=true)](https://git.io/streak-stats)
