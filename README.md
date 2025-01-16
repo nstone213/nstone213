@@ -24,4 +24,4 @@
 
 
 [linkedin]: https://www.linkedin.com/in/nicholasbaronstone/
-[instagram]: h[ttps://www.instagram.com/robotic.nation/](https://www.instagram.com/nicholasstone21/)
+[instagram]: https://www.instagram.com/nicholasstone21/
