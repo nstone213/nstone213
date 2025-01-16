@@ -4,6 +4,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nicholas+Stone!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">Current undergraduate at Georgia Tech pursuing a dual major in Comp Sci & Psychology!</h3>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=nstone213&theme=dracula&hide_border=true)](https://git.io/streak-stats)
