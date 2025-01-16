@@ -15,3 +15,14 @@
     <img src="https://streak-stats.demolab.com?user=nstone213&theme=dracula&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
+
+---
+### Social Links
+
+[<img align="left" alt="Nicholas | LinkedIn" width="25px" src="[https://assets.stickpng.com/images/580b57fcd9996e24bc43c545.png](https://cdn-icons-png.flaticon.com/512/174/174857.png)"/>][linkedin]
+[<img align="left" alt="Nicholas | Instagram" width="25px" src="https://i.pinimg.com/originals/43/85/a5/4385a5479214954fa9fab6f1a778623f.png"/>][instagram]
+[<img align="left" alt="Alexa | Twitch" width="30px" src="https://res.cloudinary.com/startup-grind/image/upload/c_fill,dpr_2.0,f_auto,g_center,h_250,q_auto:good,w_250/v1/gcs/platform-data-twitch/contentbuilder/avatar_default.png"/>][twitch]
+
+
+[linkedin]: https://www.linkedin.com/in/nicholasbaronstone/
+[instagram]: h[ttps://www.instagram.com/robotic.nation/](https://www.instagram.com/nicholasstone21/)
