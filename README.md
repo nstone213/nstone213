@@ -17,7 +17,7 @@
 </div>
 
 ---
-### Social Links
+### My Social Links
 
 [<img align="left" alt="Nicholas | LinkedIn" width="25px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/>][linkedin]
 [<img align="left" alt="Nicholas | Instagram" width="25px" src="https://i.pinimg.com/originals/43/85/a5/4385a5479214954fa9fab6f1a778623f.png"/>][instagram]
