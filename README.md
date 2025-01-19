@@ -19,7 +19,7 @@
 <br/>
 
 <h3><strong>Current Projects:</strong></h3>
-<h3><a href="https://sga-voting-tracker-q631.vercel.app/" style="text-decoration: none;">Georgia Tech SGA Centralized Voting System</a></h3>
+<h4><a href="https://sga-voting-tracker-q631.vercel.app/" style="text-decoration: none;">Georgia Tech SGA Centralized Voting System</a></h4>
 
 ---
 ### My Social Links
