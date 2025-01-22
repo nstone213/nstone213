@@ -20,7 +20,7 @@
 
 <h3><strong>Ongoing Projects:</strong></h3>
 <h4><a href="https://sga-voting-tracker-q631.vercel.app/" style="text-decoration: none;">Georgia Tech SGA Centralized Voting System</a></h4>
-<h4><a href="http://xlr8.online/user-dashboard" style="text-decoration: none;">xlr8: Desmos Cross-Platform Collaboration</a></h4>
+<h4><a href="http://xlr8.online/user-dashboard" style="text-decoration: none;">xlr8: Desmos Cross-Platform Collaboration</a> - <a href="https://xlr8-summary-website.vercel.app/" style="text-decoration: none;">Project Description</a></h4>
 
 ---
 ### My Social Links
